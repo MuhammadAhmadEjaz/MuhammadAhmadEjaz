@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadAhmadEjaz
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning MERN Stack Development
-- 📫 How to reach me -- Contact me at ahmadejaz343565@gmail.com
+- 📫 How to reach me -- Contact me at engr.muhammadahmadejaz@gmai.com
 
 <!---
 MuhammadAhmadEjaz/MuhammadAhmadEjaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
